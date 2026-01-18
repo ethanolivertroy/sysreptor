@@ -4,7 +4,7 @@ mkdocs-jupyter==0.25.1
 mkdocs-simple-hooks==0.1.5
 mkdocs-tooltips==0.1.0
 mkdocs-redirects==1.2.2
-pymdown-extensions==10.16
+pymdown-extensions==10.16.1
 pillow>=11.3.0
 cairosvg==2.8.2
 requests>=2.32.5
