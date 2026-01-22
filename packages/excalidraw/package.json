@@ -14,7 +14,7 @@
     "react": "^19",
     "react-dom": "^19",
     "idb-keyval": "^6.2.2",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "url-join": "^5.0.0",
     "base64-arraybuffer": "^1.0.2"
   },

@@ -29,7 +29,7 @@
     "@github/webauthn-json": "^2.1.1",
     "@elastic/apm-rum-vue": "^2.1.5",
     "date-fns": "^4.1.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "dompurify": "^3.1.6",
     "randomcolor": "^0.6.2",
     "@microsoft/fetch-event-source": "^2.0.1"
